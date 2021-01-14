@@ -17,7 +17,18 @@
   } catch (e) {
     // eslint-disable-next-line no-console
     console.warn('unable to connect to top frame for connecting dev tools');
-  }</script><style>#root[hidden],
+  }</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-76348847-10"></script><script>window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  const urlParams = new URLSearchParams(window.location.search);
+
+  gtag("config", "UA-76348847-10", {
+    page_title: document.title,
+    page_path: urlParams.get("path"),
+  });</script><style>#root[hidden],
       #docs-root[hidden] {
         display: none !important;
       }</style></head><body><div id="root"></div><div id="docs-root"></div><script>window['LOGLEVEL'] = "info";
@@ -28,4 +39,4 @@
             
         
             
-              window['DOCS_MODE'] = false;</script><script src="./sb_dll/storybook_ui_dll.js"></script><script src="runtime~main.870e8ee0658e83d05c6b.bundle.js"></script><script src="vendors~main.3553cc1ab1ce9513b385.bundle.js"></script><script src="main.bb30ca55d4f54d12eb25.bundle.js"></script></body></html>
+              window['DOCS_MODE'] = false;</script><script src="./sb_dll/storybook_ui_dll.js"></script><script src="runtime~main.870e8ee0658e83d05c6b.bundle.js"></script><script src="vendors~main.fe0496a8bee70337d3fa.bundle.js"></script><script src="main.3803a3c37bc4ebac3bdf.bundle.js"></script></body></html>

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'pulsodesignsystem';
-  src:  url('fonts/pulsodesignsystem.eot?wxar11');
-  src:  url('fonts/pulsodesignsystem.eot?wxar11#iefix') format('embedded-opentype'),
-    url('fonts/pulsodesignsystem.ttf?wxar11') format('truetype'),
-    url('fonts/pulsodesignsystem.woff?wxar11') format('woff'),
-    url('fonts/pulsodesignsystem.svg?wxar11#pulsodesignsystem') format('svg');
+  src:  url('fonts/pulsodesignsystem.eot?ag1yxo');
+  src:  url('fonts/pulsodesignsystem.eot?ag1yxo#iefix') format('embedded-opentype'),
+    url('fonts/pulsodesignsystem.ttf?ag1yxo') format('truetype'),
+    url('fonts/pulsodesignsystem.woff?ag1yxo') format('woff'),
+    url('fonts/pulsodesignsystem.svg?ag1yxo#pulsodesignsystem') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.rd-minus:before {
+  content: "\ea3a";
+}
+.rd-plus:before {
+  content: "\ea3b";
+}
 .rd-hours:before {
   content: "\e900";
 }
