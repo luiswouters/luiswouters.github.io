@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'pulsodesignsystem';
-  src:  url('fonts/pulsodesignsystem.eot?exh473');
-  src:  url('fonts/pulsodesignsystem.eot?exh473#iefix') format('embedded-opentype'),
-    url('fonts/pulsodesignsystem.ttf?exh473') format('truetype'),
-    url('fonts/pulsodesignsystem.woff?exh473') format('woff'),
-    url('fonts/pulsodesignsystem.svg?exh473#pulsodesignsystem') format('svg');
+  src:  url('fonts/pulsodesignsystem.eot?wc887u');
+  src:  url('fonts/pulsodesignsystem.eot?wc887u#iefix') format('embedded-opentype'),
+    url('fonts/pulsodesignsystem.ttf?wc887u') format('truetype'),
+    url('fonts/pulsodesignsystem.woff?wc887u') format('woff'),
+    url('fonts/pulsodesignsystem.svg?wc887u#pulsodesignsystem') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.rd-facebook:before {
+  content: "\ea3f";
+}
+.rd-instagram:before {
+  content: "\ea40";
+}
+.rd-twitter:before {
+  content: "\ea41";
+}
+.rd-customer-package-box:before {
+  content: "\ea3e";
+}
 .rd-sale-discount-promotion-label-only:before {
   content: "\ea3c";
 }
