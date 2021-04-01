@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'pulsodesignsystem';
-  src:  url('fonts/pulsodesignsystem.eot?wc887u');
-  src:  url('fonts/pulsodesignsystem.eot?wc887u#iefix') format('embedded-opentype'),
-    url('fonts/pulsodesignsystem.ttf?wc887u') format('truetype'),
-    url('fonts/pulsodesignsystem.woff?wc887u') format('woff'),
-    url('fonts/pulsodesignsystem.svg?wc887u#pulsodesignsystem') format('svg');
+  src:  url('fonts/pulsodesignsystem.eot?jz629b');
+  src:  url('fonts/pulsodesignsystem.eot?jz629b#iefix') format('embedded-opentype'),
+    url('fonts/pulsodesignsystem.ttf?jz629b') format('truetype'),
+    url('fonts/pulsodesignsystem.woff?jz629b') format('woff'),
+    url('fonts/pulsodesignsystem.svg?jz629b#pulsodesignsystem') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,144 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.rd-id-with-photo:before {
+  content: "\ea6e";
+}
+.rd-face-mask:before {
+  content: "\ea6f";
+}
+.rd-alarm-clock-time-filled:before {
+  content: "\ea42";
+}
+.rd-barcode:before {
+  content: "\ea43";
+}
+.rd-basket-pack:before {
+  content: "\ea44";
+}
+.rd-basket-shopping-cart:before {
+  content: "\ea45";
+}
+.rd-bolt-filled:before {
+  content: "\ea46";
+}
+.rd-bookmark-favorite:before {
+  content: "\ea47";
+}
+.rd-book-open:before {
+  content: "\ea48";
+}
+.rd-bullet-list-text:before {
+  content: "\ea49";
+}
+.rd-copy-select:before {
+  content: "\ea4a";
+}
+.rd-dashboard:before {
+  content: "\ea4b";
+}
+.rd-documet-edit:before {
+  content: "\ea4c";
+}
+.rd-done-check:before {
+  content: "\ea4d";
+}
+.rd-emoji:before {
+  content: "\ea4e";
+}
+.rd-emoji-calm:before {
+  content: "\ea4f";
+}
+.rd-emoji-happy:before {
+  content: "\ea50";
+}
+.rd-emoji-meh:before {
+  content: "\ea51";
+}
+.rd-emoji-sad:before {
+  content: "\ea52";
+}
+.rd-emoji-tip:before {
+  content: "\ea53";
+}
+.rd-emoji-very-happy:before {
+  content: "\ea54";
+}
+.rd-emoji-very-sad:before {
+  content: "\ea55";
+}
+.rd-heartbeat-filled:before {
+  content: "\ea56";
+}
+.rd-heart-favorite:before {
+  content: "\ea57";
+}
+.rd-item-search:before {
+  content: "\ea58";
+}
+.rd-map-navigation:before {
+  content: "\ea59";
+}
+.rd-markup:before {
+  content: "\ea5a";
+}
+.rd-medical-cross:before {
+  content: "\ea5b";
+}
+.rd-medical-cross-filled:before {
+  content: "\ea5c";
+}
+.rd-minus-circle:before {
+  content: "\ea5d";
+}
+.rd-Parking:before {
+  content: "\ea5e";
+}
+.rd-phone-call:before {
+  content: "\ea5f";
+}
+.rd-route:before {
+  content: "\ea60";
+}
+.rd-sale-discount-promotion:before {
+  content: "\ea61";
+}
+.rd-share:before {
+  content: "\ea62";
+}
+.rd-shopping-bag-package-pack-smile:before {
+  content: "\ea63";
+}
+.rd-shopping-bag-package-pack-heart:before {
+  content: "\ea64";
+}
+.rd-shopping-bag-package-pack-percent:before {
+  content: "\ea65";
+}
+.rd-shopping-bag-package-pack:before {
+  content: "\ea66";
+}
+.rd-smartphone:before {
+  content: "\ea67";
+}
+.rd-star-half-filled:before {
+  content: "\ea68";
+}
+.rd-store-circle-filled:before {
+  content: "\ea69";
+}
+.rd-thumbs-down-dislike:before {
+  content: "\ea6a";
+}
+.rd-thumbs-up-like:before {
+  content: "\ea6b";
+}
+.rd-user-circle-filled:before {
+  content: "\ea6c";
+}
+.rd-whatsapp:before {
+  content: "\ea6d";
+}
 .rd-facebook:before {
   content: "\ea3f";
 }
@@ -124,7 +262,7 @@
 .rd-barcode-search:before {
   content: "\e918";
 }
-.rd-barcode:before {
+.rd-barcode1:before {
   content: "\e919";
 }
 .rd-basket-arrow-circle:before {
@@ -148,7 +286,7 @@
 .rd-basket-pack-enter:before {
   content: "\e920";
 }
-.rd-basket-pack:before {
+.rd-basket-pack1:before {
   content: "\e921";
 }
 .rd-basket-refresh:before {
@@ -157,7 +295,7 @@
 .rd-basket-shopping-cart-check-mark:before {
   content: "\e923";
 }
-.rd-basket-shopping-cart:before {
+.rd-basket-shopping-cart1:before {
   content: "\e924";
 }
 .rd-bell-notification:before {
@@ -181,10 +319,10 @@
 .rd-bookmark-favorite-search:before {
   content: "\e92b";
 }
-.rd-bookmark-favorite:before {
+.rd-bookmark-favorite1:before {
   content: "\e92c";
 }
-.rd-bullet-list-text:before {
+.rd-bullet-list-text1:before {
   content: "\e92d";
 }
 .rd-calendar-circle:before {
@@ -328,7 +466,7 @@
 .rd-cup-circle:before {
   content: "\e95c";
 }
-.rd-dashboard:before {
+.rd-dashboard1:before {
   content: "\e95d";
 }
 .rd-delete-disabled:before {
@@ -364,10 +502,10 @@
 .rd-dna-hospital-medical:before {
   content: "\e968";
 }
-.rd-documet-edit:before {
+.rd-documet-edit1:before {
   content: "\e969";
 }
-.rd-done-check:before {
+.rd-done-check1:before {
   content: "\e96a";
 }
 .rd-dowload-save:before {
@@ -466,7 +604,7 @@
 .rd-grid-layout:before {
   content: "\e98a";
 }
-.rd-heart-favorite:before {
+.rd-heart-favorite1:before {
   content: "\e98b";
 }
 .rd-heartbeat-heart:before {
@@ -511,7 +649,7 @@
 .rd-invoice:before {
   content: "\e999";
 }
-.rd-item-search:before {
+.rd-item-search1:before {
   content: "\e99a";
 }
 .rd-item-square-menu:before {
@@ -571,7 +709,7 @@
 .rd-medical-cross-signboard:before {
   content: "\e9ad";
 }
-.rd-medical-cross:before {
+.rd-medical-cross1:before {
   content: "\e9ae";
 }
 .rd-microbe-bacterium:before {
@@ -724,7 +862,7 @@
 .rd-sale-discount-promotion-loyalty-card:before {
   content: "\e9e0";
 }
-.rd-sale-discount-promotion:before {
+.rd-sale-discount-promotion1:before {
   content: "\e9e1";
 }
 .rd-save-circle:before {
@@ -772,7 +910,7 @@
 .rd-share-circle:before {
   content: "\e9f0";
 }
-.rd-share:before {
+.rd-share1:before {
   content: "\e9f1";
 }
 .rd-shield-protected:before {
@@ -790,7 +928,7 @@
 .rd-shop:before {
   content: "\e9f6";
 }
-.rd-shopping-bag-package-pack:before {
+.rd-shopping-bag-package-pack1:before {
   content: "\e9f7";
 }
 .rd-shopping-cart:before {
